@@ -1,0 +1,18 @@
+{
+  "minimum_eigenvalue": 0.7673937720735051,
+  "maximum_eigenvalue": 5652.605935103473,
+  "max_unsymmetrized_asymmetry": 2.3944657439045614e-05,
+  "condition_number": 7365.978381385855,
+  "step_relative": 0.0001,
+  "penalty_strength": 2.0,
+  "data_information_min_eigenvalue": -0.7794244143135951,
+  "data_information_condition_number": 415425.8474477026,
+  "information_basis": "penalized information; data-only matrix separately retained",
+  "qualified": true,
+  "cluster_count": 5720,
+  "effective_parameter_dimension": 172.3808893584874,
+  "regularization_information_fraction": 0.2338627139622783,
+  "covariance_interpretation": "Hpen^-1 sum_i (weighted data-only score_i)(weighted data-only score_i)^T Hpen^-1; no penalty in meat; approximate sampling variance of shrinkage estimator. Not unpenalized-MLE confidence intervals, not full Bayesian credible intervals.",
+  "sandwich_min_diagonal": 0.005370788854534927,
+  "sandwich_status": "COMPUTED"
+}

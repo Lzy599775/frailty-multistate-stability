@@ -1,0 +1,15 @@
+{
+  "utc": "2026-10-24T11:37:37.169527+00:00",
+  "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+  "executable": "D:\\Program Files (x86)\\python3.11\\python.exe",
+  "platform": "Windows-10-10.0.22621-SP0",
+  "packages": {
+    "numpy": "2.1.0",
+    "pandas": "3.0.3",
+    "scipy": "1.14.0",
+    "patsy": "1.0.2",
+    "numba": "0.66.0",
+    "llvmlite": "0.48.0",
+    "python-docx": "1.2.0"
+  }
+}

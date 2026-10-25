@@ -1,0 +1,383 @@
+{
+  "utc": "2026-10-24T11:37:40.512045+00:00",
+  "status": "FROZEN_BEFORE_FORMAL_FIT",
+  "spec_sha256": "2904f32cb340bd0a92fdaffc30c6072e5a66f1cd4ffed3030f48c3efca252a6c",
+  "expected_attempts": 44,
+  "seeds": [
+    2026102401,
+    2026102402
+  ],
+  "engine_sha256": "c5d91db8a8832357dfbcc10485ef0190efa184699614dea7e18023eaca672424",
+  "files": [
+    {
+      "path": "compact_model_spec_frozen.md",
+      "bytes": 6955,
+      "sha256": "2904f32cb340bd0a92fdaffc30c6072e5a66f1cd4ffed3030f48c3efca252a6c"
+    },
+    {
+      "path": "environment.json",
+      "bytes": 454,
+      "sha256": "1a7477c5da7d0751efba877f74a1e23f0096596294018dc0044ecd0c760f753f"
+    },
+    {
+      "path": "fit_plan.csv",
+      "bytes": 12177,
+      "sha256": "2d748325dfe38ea334a2ce25b664d3c02925e624517e34b73f4b46504cf75198"
+    },
+    {
+      "path": "fit_runner.py",
+      "bytes": 13274,
+      "sha256": "94bb1251de581cda229921ad1e4f93f7086c1b0cf29472f0c3f40031ab0ae848"
+    },
+    {
+      "path": "freeze_batch.py",
+      "bytes": 12762,
+      "sha256": "ee0249444550a4b12165511e5667b59bd7707f0363e25daecb08a1603c61ecfc"
+    },
+    {
+      "path": "inputs\\2008_compact_mapping.npy",
+      "bytes": 142688,
+      "sha256": "41eb9ef3c8d01789d92bef735dc1d721850c24171c430a63c6d1b3b7d7b7ca64"
+    },
+    {
+      "path": "inputs\\2008_compact_parameters.json",
+      "bytes": 3070,
+      "sha256": "7f931c42d7a2854ecd22ed5bf9c1b3521768bc3b1560bc2baf98cf1f7e62e68d"
+    },
+    {
+      "path": "inputs\\2008_cv_transform.json",
+      "bytes": 436,
+      "sha256": "8fd57947064582c66ce1772d16479dcee26b91a4faacaae6bca9c0e8ee993a83"
+    },
+    {
+      "path": "inputs\\2008_original_mapping.npy",
+      "bytes": 405128,
+      "sha256": "be2868b864a6f22a6b2ed74780292824b394a0d66ed8f0fb9194a10d66b5cce2"
+    },
+    {
+      "path": "inputs\\2008_original_parameters.json",
+      "bytes": 6163,
+      "sha256": "cd8aa58a3d7bb178d4ed8900054563e4d3db227f6cbafe49a9888b00c4709408"
+    },
+    {
+      "path": "inputs\\2011_compact_mapping.npy",
+      "bytes": 142688,
+      "sha256": "41eb9ef3c8d01789d92bef735dc1d721850c24171c430a63c6d1b3b7d7b7ca64"
+    },
+    {
+      "path": "inputs\\2011_compact_parameters.json",
+      "bytes": 3070,
+      "sha256": "7f931c42d7a2854ecd22ed5bf9c1b3521768bc3b1560bc2baf98cf1f7e62e68d"
+    },
+    {
+      "path": "inputs\\2011_cv_transform.json",
+      "bytes": 434,
+      "sha256": "fd88b6efc0e4fad38b4a5967301f78b98ee9e80441c45b8bb0bb541cd24a025f"
+    },
+    {
+      "path": "inputs\\2011_original_mapping.npy",
+      "bytes": 405128,
+      "sha256": "be2868b864a6f22a6b2ed74780292824b394a0d66ed8f0fb9194a10d66b5cce2"
+    },
+    {
+      "path": "inputs\\2011_original_parameters.json",
+      "bytes": 6163,
+      "sha256": "cd8aa58a3d7bb178d4ed8900054563e4d3db227f6cbafe49a9888b00c4709408"
+    },
+    {
+      "path": "inputs\\2014_compact_mapping.npy",
+      "bytes": 142688,
+      "sha256": "41eb9ef3c8d01789d92bef735dc1d721850c24171c430a63c6d1b3b7d7b7ca64"
+    },
+    {
+      "path": "inputs\\2014_compact_parameters.json",
+      "bytes": 3070,
+      "sha256": "7f931c42d7a2854ecd22ed5bf9c1b3521768bc3b1560bc2baf98cf1f7e62e68d"
+    },
+    {
+      "path": "inputs\\2014_cv_transform.json",
+      "bytes": 436,
+      "sha256": "7d474a18ae9b1eed7f620015a4095df87a09975b95abae4e06fa411b02e89f62"
+    },
+    {
+      "path": "inputs\\2014_original_mapping.npy",
+      "bytes": 405128,
+      "sha256": "be2868b864a6f22a6b2ed74780292824b394a0d66ed8f0fb9194a10d66b5cce2"
+    },
+    {
+      "path": "inputs\\2014_original_parameters.json",
+      "bytes": 6163,
+      "sha256": "cd8aa58a3d7bb178d4ed8900054563e4d3db227f6cbafe49a9888b00c4709408"
+    },
+    {
+      "path": "inputs\\CHARLS_compact_mapping.npy",
+      "bytes": 152192,
+      "sha256": "e4b42be110a88acad690a2c9a9e5db817e7c256e04ac23ec0731978f0ff0698a"
+    },
+    {
+      "path": "inputs\\CHARLS_compact_parameters.json",
+      "bytes": 3248,
+      "sha256": "81aba185e2d0a03cf061e59ecb8ec91d1ee53a6ae6d5c0a7f5afa53c5a60eeb8"
+    },
+    {
+      "path": "inputs\\CHARLS_cv_transform.json",
+      "bytes": 433,
+      "sha256": "2d0f81e96d8d0b138fbc25e043f1034714f4bbad98c32e7434bbd632af66a447"
+    },
+    {
+      "path": "inputs\\CHARLS_original_mapping.npy",
+      "bytes": 405128,
+      "sha256": "be2868b864a6f22a6b2ed74780292824b394a0d66ed8f0fb9194a10d66b5cce2"
+    },
+    {
+      "path": "inputs\\CHARLS_original_parameters.json",
+      "bytes": 6163,
+      "sha256": "cd8aa58a3d7bb178d4ed8900054563e4d3db227f6cbafe49a9888b00c4709408"
+    },
+    {
+      "path": "inputs\\compact_2008_cv_seed2026102401.npy",
+      "bytes": 848,
+      "sha256": "fbe0441228771ffd8d759127bc3601eb6304e4f56078033bed1019e6055be83e"
+    },
+    {
+      "path": "inputs\\compact_2008_lambda0.5_seed2026102401.npy",
+      "bytes": 848,
+      "sha256": "fbe0441228771ffd8d759127bc3601eb6304e4f56078033bed1019e6055be83e"
+    },
+    {
+      "path": "inputs\\compact_2008_lambda0.5_seed2026102402.npy",
+      "bytes": 848,
+      "sha256": "ae20cd26920540a0f6dc0c7f8a5b49a3e1ba48838411fa48ef4ecebe1de641fa"
+    },
+    {
+      "path": "inputs\\compact_2008_lambda1_seed2026102401.npy",
+      "bytes": 848,
+      "sha256": "fbe0441228771ffd8d759127bc3601eb6304e4f56078033bed1019e6055be83e"
+    },
+    {
+      "path": "inputs\\compact_2008_lambda1_seed2026102402.npy",
+      "bytes": 848,
+      "sha256": "ae20cd26920540a0f6dc0c7f8a5b49a3e1ba48838411fa48ef4ecebe1de641fa"
+    },
+    {
+      "path": "inputs\\compact_2008_lambda2_seed2026102401.npy",
+      "bytes": 848,
+      "sha256": "fbe0441228771ffd8d759127bc3601eb6304e4f56078033bed1019e6055be83e"
+    },
+    {
+      "path": "inputs\\compact_2008_lambda2_seed2026102402.npy",
+      "bytes": 848,
+      "sha256": "ae20cd26920540a0f6dc0c7f8a5b49a3e1ba48838411fa48ef4ecebe1de641fa"
+    },
+    {
+      "path": "inputs\\compact_2011_cv_seed2026102401.npy",
+      "bytes": 848,
+      "sha256": "fbe0441228771ffd8d759127bc3601eb6304e4f56078033bed1019e6055be83e"
+    },
+    {
+      "path": "inputs\\compact_2011_lambda0.5_seed2026102401.npy",
+      "bytes": 848,
+      "sha256": "fbe0441228771ffd8d759127bc3601eb6304e4f56078033bed1019e6055be83e"
+    },
+    {
+      "path": "inputs\\compact_2011_lambda0.5_seed2026102402.npy",
+      "bytes": 848,
+      "sha256": "ae20cd26920540a0f6dc0c7f8a5b49a3e1ba48838411fa48ef4ecebe1de641fa"
+    },
+    {
+      "path": "inputs\\compact_2011_lambda1_seed2026102401.npy",
+      "bytes": 848,
+      "sha256": "fbe0441228771ffd8d759127bc3601eb6304e4f56078033bed1019e6055be83e"
+    },
+    {
+      "path": "inputs\\compact_2011_lambda1_seed2026102402.npy",
+      "bytes": 848,
+      "sha256": "ae20cd26920540a0f6dc0c7f8a5b49a3e1ba48838411fa48ef4ecebe1de641fa"
+    },
+    {
+      "path": "inputs\\compact_2011_lambda2_seed2026102401.npy",
+      "bytes": 848,
+      "sha256": "fbe0441228771ffd8d759127bc3601eb6304e4f56078033bed1019e6055be83e"
+    },
+    {
+      "path": "inputs\\compact_2011_lambda2_seed2026102402.npy",
+      "bytes": 848,
+      "sha256": "ae20cd26920540a0f6dc0c7f8a5b49a3e1ba48838411fa48ef4ecebe1de641fa"
+    },
+    {
+      "path": "inputs\\compact_2014_cv_seed2026102401.npy",
+      "bytes": 848,
+      "sha256": "fbe0441228771ffd8d759127bc3601eb6304e4f56078033bed1019e6055be83e"
+    },
+    {
+      "path": "inputs\\compact_2014_lambda0.5_seed2026102401.npy",
+      "bytes": 848,
+      "sha256": "fbe0441228771ffd8d759127bc3601eb6304e4f56078033bed1019e6055be83e"
+    },
+    {
+      "path": "inputs\\compact_2014_lambda0.5_seed2026102402.npy",
+      "bytes": 848,
+      "sha256": "ae20cd26920540a0f6dc0c7f8a5b49a3e1ba48838411fa48ef4ecebe1de641fa"
+    },
+    {
+      "path": "inputs\\compact_2014_lambda1_seed2026102401.npy",
+      "bytes": 848,
+      "sha256": "fbe0441228771ffd8d759127bc3601eb6304e4f56078033bed1019e6055be83e"
+    },
+    {
+      "path": "inputs\\compact_2014_lambda1_seed2026102402.npy",
+      "bytes": 848,
+      "sha256": "ae20cd26920540a0f6dc0c7f8a5b49a3e1ba48838411fa48ef4ecebe1de641fa"
+    },
+    {
+      "path": "inputs\\compact_2014_lambda2_seed2026102401.npy",
+      "bytes": 848,
+      "sha256": "fbe0441228771ffd8d759127bc3601eb6304e4f56078033bed1019e6055be83e"
+    },
+    {
+      "path": "inputs\\compact_2014_lambda2_seed2026102402.npy",
+      "bytes": 848,
+      "sha256": "ae20cd26920540a0f6dc0c7f8a5b49a3e1ba48838411fa48ef4ecebe1de641fa"
+    },
+    {
+      "path": "inputs\\compact_CHARLS_cv_seed2026102401.npy",
+      "bytes": 896,
+      "sha256": "e597b984491ced85a7b18794693a11e7f6faf31e62f0269aa7ae13bed43cd4a1"
+    },
+    {
+      "path": "inputs\\compact_CHARLS_lambda0.5_seed2026102401.npy",
+      "bytes": 896,
+      "sha256": "e597b984491ced85a7b18794693a11e7f6faf31e62f0269aa7ae13bed43cd4a1"
+    },
+    {
+      "path": "inputs\\compact_CHARLS_lambda0.5_seed2026102402.npy",
+      "bytes": 896,
+      "sha256": "1bd6956baa4e23675c6e6805be078027b368711a39663a081a5740ec1f589148"
+    },
+    {
+      "path": "inputs\\compact_CHARLS_lambda1_seed2026102401.npy",
+      "bytes": 896,
+      "sha256": "e597b984491ced85a7b18794693a11e7f6faf31e62f0269aa7ae13bed43cd4a1"
+    },
+    {
+      "path": "inputs\\compact_CHARLS_lambda1_seed2026102402.npy",
+      "bytes": 896,
+      "sha256": "1bd6956baa4e23675c6e6805be078027b368711a39663a081a5740ec1f589148"
+    },
+    {
+      "path": "inputs\\compact_CHARLS_lambda2_seed2026102401.npy",
+      "bytes": 896,
+      "sha256": "e597b984491ced85a7b18794693a11e7f6faf31e62f0269aa7ae13bed43cd4a1"
+    },
+    {
+      "path": "inputs\\compact_CHARLS_lambda2_seed2026102402.npy",
+      "bytes": 896,
+      "sha256": "1bd6956baa4e23675c6e6805be078027b368711a39663a081a5740ec1f589148"
+    },
+    {
+      "path": "inputs\\design_support.csv",
+      "bytes": 800,
+      "sha256": "72f48127804d86f5a164b9fa9c0661f02b192eba47a30efe4afa2be0ae4dbfac"
+    },
+    {
+      "path": "inputs\\frozen_input_integrity.csv",
+      "bytes": 150280,
+      "sha256": "fb1db9e9be5dae7a3b9aeed77e17e8c3493dc78c4f2c6fbccef32c65aa4362ea"
+    },
+    {
+      "path": "inputs\\original_2008_cv_seed2026102401.npy",
+      "bytes": 1928,
+      "sha256": "2c699f2d4541ec38cfb0a4e9b0629d174c1ddc594d1351c48d6f3064923eb9f7"
+    },
+    {
+      "path": "inputs\\original_2011_cv_seed2026102401.npy",
+      "bytes": 1928,
+      "sha256": "2c699f2d4541ec38cfb0a4e9b0629d174c1ddc594d1351c48d6f3064923eb9f7"
+    },
+    {
+      "path": "inputs\\original_2014_cv_seed2026102401.npy",
+      "bytes": 1928,
+      "sha256": "2c699f2d4541ec38cfb0a4e9b0629d174c1ddc594d1351c48d6f3064923eb9f7"
+    },
+    {
+      "path": "inputs\\original_2014_lambda0.5_seed2026102401.npy",
+      "bytes": 1928,
+      "sha256": "2c699f2d4541ec38cfb0a4e9b0629d174c1ddc594d1351c48d6f3064923eb9f7"
+    },
+    {
+      "path": "inputs\\original_2014_lambda0.5_seed2026102402.npy",
+      "bytes": 1928,
+      "sha256": "dd2122a6455fd29b49666dcc651c055841e059cfc02f70781c57df5ec72bdd14"
+    },
+    {
+      "path": "inputs\\original_2014_lambda0.5_warm_lambda1.npy",
+      "bytes": 1928,
+      "sha256": "0499754ae2b44a3c4e8f0cd7ec5a960e3396cd16aeedac59ee638db3e4bf657b"
+    },
+    {
+      "path": "inputs\\original_2014_lambda0.5_warm_lambda2.npy",
+      "bytes": 1928,
+      "sha256": "3a197618c90fd4bf1557e62446eb43a08823c50752d575972dcdcb976e9b7668"
+    },
+    {
+      "path": "inputs\\original_2014_lambda1_seed2026102401.npy",
+      "bytes": 1928,
+      "sha256": "2c699f2d4541ec38cfb0a4e9b0629d174c1ddc594d1351c48d6f3064923eb9f7"
+    },
+    {
+      "path": "inputs\\original_2014_lambda1_seed2026102402.npy",
+      "bytes": 1928,
+      "sha256": "dd2122a6455fd29b49666dcc651c055841e059cfc02f70781c57df5ec72bdd14"
+    },
+    {
+      "path": "inputs\\original_2014_lambda1_warm_lambda0.5.npy",
+      "bytes": 1928,
+      "sha256": "fb3c130528b0506e7284eb7963ea1fdce4eef518d21fd3aa6926d53742e9bce8"
+    },
+    {
+      "path": "inputs\\original_2014_lambda1_warm_lambda2.npy",
+      "bytes": 1928,
+      "sha256": "3a197618c90fd4bf1557e62446eb43a08823c50752d575972dcdcb976e9b7668"
+    },
+    {
+      "path": "inputs\\original_2014_lambda2_seed2026102401.npy",
+      "bytes": 1928,
+      "sha256": "2c699f2d4541ec38cfb0a4e9b0629d174c1ddc594d1351c48d6f3064923eb9f7"
+    },
+    {
+      "path": "inputs\\original_2014_lambda2_seed2026102402.npy",
+      "bytes": 1928,
+      "sha256": "dd2122a6455fd29b49666dcc651c055841e059cfc02f70781c57df5ec72bdd14"
+    },
+    {
+      "path": "inputs\\original_2014_lambda2_warm_lambda0.5.npy",
+      "bytes": 1928,
+      "sha256": "fb3c130528b0506e7284eb7963ea1fdce4eef518d21fd3aa6926d53742e9bce8"
+    },
+    {
+      "path": "inputs\\original_2014_lambda2_warm_lambda1.npy",
+      "bytes": 1928,
+      "sha256": "0499754ae2b44a3c4e8f0cd7ec5a960e3396cd16aeedac59ee638db3e4bf657b"
+    },
+    {
+      "path": "inputs\\original_CHARLS_cv_seed2026102401.npy",
+      "bytes": 1928,
+      "sha256": "2c699f2d4541ec38cfb0a4e9b0629d174c1ddc594d1351c48d6f3064923eb9f7"
+    },
+    {
+      "path": "inputs\\subject_holdout_split.csv",
+      "bytes": 463759,
+      "sha256": "a089da181a4f9efd71c1e4b45d167fa7b81d226f0826f430dec647b7b90346e4"
+    },
+    {
+      "path": "stable_log_ctmc.py",
+      "bytes": 7888,
+      "sha256": "c5d91db8a8832357dfbcc10485ef0190efa184699614dea7e18023eaca672424"
+    },
+    {
+      "path": "study_v8.py",
+      "bytes": 5594,
+      "sha256": "787342812330968fa8af26f670831310ae3f47c5bdeb2da291fb8388c08ceef4"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "minimum_eigenvalue": 0.6814270086530164,
+  "maximum_eigenvalue": 23803.14849149571,
+  "max_unsymmetrized_asymmetry": 8.636922075311304e-06,
+  "condition_number": 34931.3252765663,
+  "step_relative": 0.0001,
+  "penalty_strength": 1.0,
+  "data_information_min_eigenvalue": -0.22702265977940464,
+  "data_information_condition_number": 6.666979077502503e+21,
+  "information_basis": "penalized information; data-only matrix separately retained",
+  "qualified": true,
+  "cluster_count": 8558,
+  "effective_parameter_dimension": 188.72164522928716,
+  "regularization_information_fraction": 0.16123713231427997,
+  "covariance_interpretation": "penalized Hessian bread; individual cluster data score meat; no inverse/pseudoinverse fallback",
+  "sandwich_min_diagonal": 0.0,
+  "sandwich_status": "COMPUTED"
+}
